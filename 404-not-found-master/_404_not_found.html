@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>404_not_found</title>
+<style>
+    body {
+font-family:'Times New Roman', Times, serif;
+}
+
+.container {
+    display: flex;
+    flex-wrap: wrap;
+}
+img {
+    width: 45%;
+    height: 40%;
+    margin-top: 100px;
+}
+
+.info {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    margin-top: 200px;
+    margin-left: 50px;
+}
+.info h1 {
+    width:400px;
+    font-stretch: expanded;
+    word-spacing: 15px;
+
+}
+.info p {
+    width: 300px;
+    margin-bottom: 40px;
+    
+}
+
+.home {
+    background-color: black;
+    color: white;
+    padding: 15px;
+    font-size: 12px;
+    border-radius: 5px;
+    width:fit-content;
+    cursor: pointer;
+    }
+
+    footer {
+        text-align: center;
+        margin-top: 50px;
+    }
+
+    @media (max-width: 500px)  {
+      img {
+        width: 100%;
+      }
+    }
+</style>
+
+</head>
+
+<body>
+    <header>
+        <p>404 NOT FOUND</p>
+        <div class="container">
+        <img src="Scarecrow.png" alt="Scarecrow">       
+        <div class="info">
+            <h1>I Have a bad news for you</h1>
+            <p>The page you are looking for might be removed or temporarily unavaliable</p>
+            <button class="home">BACK TO HOMEPAGE</button>
+            </div>
+        </div>
+    </header>
+    <footer>created by XshubhamG . <a href="#" target="_blank">devChallenges.io</a></footer>
+</body>
+
+</html>
