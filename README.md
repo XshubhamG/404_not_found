@@ -26,26 +26,25 @@
 
 ## Table of Contents
 
-- [Overview](#overview)
-  - [Built With](#built-with)
-- [Features](#features)
-- [Contact](#contact)
-- [Acknowledgements](#acknowledgements)
+- [Overview] - It is a singled page html-css website  made for a  challenge  from <a href="https://devchallenges.io/challenges/wBunSb7FPrIepJZAg0sY">devChallenge.io</a> 
+  - [Built With] - It built by using html & css only
 
 <!-- OVERVIEW -->
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/92399059-5716eb00-f132-11ea-8b14-bcacdc8ec97b.png)
+![screenshot](https://user-images.githubusercontent.com/16707738/Screenshot.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
 
-### Built With
+- What was your experience?
+
+- What have you learned/improved?
+Well, The project was super easy but I learnt alot in terms of hosting and how to present your project in public ,I learned using Git & Github 
+- Your wisdom?
+I have just start  my WebDev journey so, I have alot to learn and a long way to go. Super excited for the upcoming challenges. :)
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
