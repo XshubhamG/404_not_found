@@ -33,8 +33,6 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/16707738/Screenshot.png)
-
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo?
@@ -42,9 +40,9 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 - What was your experience?
 
 - What have you learned/improved?
-Well, The project was super easy but I learnt alot in terms of hosting and how to present your project in public ,I learned using Git & Github 
+  -  Well, The project was super easy but I learnt alot in terms of hosting and how to present your project in public ,I learned using Git & Github 
 - Your wisdom?
-I have just start  my WebDev journey so, I have alot to learn and a long way to go. Super excited for the upcoming challenges. :)
+  -  I have just start  my WebDev journey so, I have alot to learn and a long way to go. Super excited for the upcoming challenges. :)
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
